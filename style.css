@@ -1,0 +1,41 @@
+/*Styles*/
+
+body{
+    background-color:khaki;
+}
+
+.title{
+    background-color: chocolate;
+    color:cornsilk;
+    font-size: 50px;
+    text-align: center;
+}
+
+a{
+    color:darkgoldenrod;
+    font-size: 30px;
+}
+
+.MAIN{
+    color:darkolivegreen;
+    font-size: 30px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+h1{
+    color:darkgoldenrod;
+    font-size: 30px;
+    text-align: center;
+}
+.recipe-image{
+    height: auto;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    color:darkslategray;
+}
